@@ -10,6 +10,9 @@
 * 	Template Style 
 *
 * ======================================================= */
+.avanade{
+  color:rgb(255, 88, 0);
+}
 body {
   font-family: "Space Mono", Arial, serif;
   font-weight: 400;
